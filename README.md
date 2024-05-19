@@ -37,7 +37,7 @@ O Sistema está integrado ao banco de dados “fitconnect.sql” que se encontra
 
 Formulários integrados ao banco de dados: Cadastro do aluno; Cadastro do profissional, Login, Aluguem de bicicletas e Pagamentos.
 
-Link: git@github.com:jairo-44/App_FitConnect.git
+Link: https://github.com/jairo-44/App_FitConnect
 
 Youtube O vídeo resumido demonstrando do sistema em funcionamento está disponível no Link: https://youtu.be/visg7pEB3c0
 
