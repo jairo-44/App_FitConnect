@@ -47,7 +47,8 @@ Instruções de instalação:
 - Instale o React Native e Xampo em sua máquina.
 - Baixe a pasta PI do diretório compartilhado no Google Drive (https://drive.google.com/drive/folders/1B1EhiJn3v9jcujBaDsPlki83sYcsABv4?usp=drive_link).
 - Baixe o banco de dados "fitconnect.sql" compartilhado no mesmo link (https://drive.google.com/drive/folders/1B1EhiJn3v9jcujBaDsPlki83sYcsABv4?usp=drive_link)
-- Clone o projeto para sua máquina (git@github.com:jairo-44/App_FitConnect.git)
+- Clone o projeto para sua máquina (git@github.com:jairo-44/App_FitConnect.git) ao entrar nela pelo link https://github.com/jairo-44/App_FitConnect
+
 
 
 Como clonar o projeto GitHub para sua máquina:
