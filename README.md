@@ -33,7 +33,7 @@ O aluno será direcionado para sua página onde através de links terá acesso a
 
 Já profissional terá acesso a sua área com alunos agendados, sendo listados por data e horários, bem como poderá também gerenciar os treinos/consultas dos alunos/pacientes.
 
-O Sistema está integrado ao banco de dados “fitconnect.sql” que se encontra na pasta "instruções" no google drive "https://drive.google.com/drive/folders/1yeLh1fk-u8H47Ts6TqKfCRWyqR046An2?usp=drive_link".
+O Sistema está integrado ao banco de dados “fitconnect.sql” que se encontra na pasta "instruções" no google drive "https://drive.google.com/drive/folders/1B1EhiJn3v9jcujBaDsPlki83sYcsABv4?usp=drive_link".
 
 Formulários integrados ao banco de dados: Cadastro do aluno; Cadastro do profissional, Login, Aluguem de bicicletas e Pagamentos.
 
