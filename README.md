@@ -13,7 +13,7 @@ Integrantes da equipe:
 - Guilherme Lima Rett
 - Jairo Souza dos Santos
 
-Orientadores: Débora Richter, Evandro Carlos Teruel, 
+Orientadores: Débora Richter, Evandro Carlos Teruel 
 
 Aplicativo: FitConnect
 
